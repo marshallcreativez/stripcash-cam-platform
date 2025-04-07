@@ -1,0 +1,1 @@
+# stripcash-cam-platform
